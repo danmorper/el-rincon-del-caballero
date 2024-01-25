@@ -1,0 +1,11 @@
+*.db
+*.py[cod]
+.web/
+__pycache__/
+
+.DS_Store
+bin/
+lib/
+pyvenv.cfg
+.rxconfig.py
+include/
